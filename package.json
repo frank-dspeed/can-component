@@ -46,7 +46,7 @@
     "can-reflect": "^1.2.1",
     "can-simple-map": "^3.3.0",
     "can-stache-bindings": "^3.4.0",
-    "can-types": "^1.1.0",
+    "can-types": "1.1.1",
     "can-util": "^3.9.5",
     "can-view-callbacks": "^3.2.0",
     "can-view-model": "^3.4.0",
